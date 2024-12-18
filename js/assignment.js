@@ -13,7 +13,7 @@ const book = "The Hitchhiker's Guide to the Galaxy";
 
 // Declare a mutable variable named "activity" and assign
 // an activity to it.
-let activity = "bowling";
+let activity = "Relaxing";
 
 
 function updateBookSentence() {
